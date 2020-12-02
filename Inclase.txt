@@ -1,0 +1,5 @@
+UML:
+
+  la parte condicional no es con dos lineas paralelas, es con un rombo vacio y chiquito (img 1)
+  en todo caso significan tareas independientes, puede ser en paralelo (img 2)
+  lineas punteadas representan tiempo
